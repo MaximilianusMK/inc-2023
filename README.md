@@ -60,7 +60,7 @@ The following table describes the time limit for each problem, as broadcasted to
 | L            | numbers      | 2 sec      |
 | M            | choco        | 1 sec      |
 
-The memory limit for all problems is 1024MB, as broadcasted to all teams at the beginning of the contest.
+The memory limit for all problems is 256MB, as broadcasted to all teams at the beginning of the contest.
 
 ## Solutions
 

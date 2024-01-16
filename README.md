@@ -12,7 +12,7 @@ Each problem (from PA to PD for trial and A to M for contest) has their own fold
 | PD           | power        | Powers of Two         |
 | A            | gold         | Golden Tickets        |
 | B            | diet         | Diet Plan             |
-| C            | max          | Independent Set (Max) |
+| C            | set          | Independent Set (Max) |
 | D            | sum          | Independent Set (Min) |
 | E            | reverse      | Reverse Severer       |
 | F            | privacy      | Interesting Couple    |
@@ -48,7 +48,7 @@ The following table describes the time limit for each problem, as broadcasted to
 | PD           | power        | 1 sec      |
 | A            | gold         | 1 sec      |
 | B            | diet         | 1 sec      |
-| C            | max          | 1 sec      |
+| C            | set          | 1 sec      |
 | D            | sum          | 1 sec      |
 | E            | reverse      | 1 sec      |
 | F            | privacy      | 2 sec      |
